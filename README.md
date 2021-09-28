@@ -13,7 +13,7 @@
 
 Sou Desenvolvedor Mobile Júnior, atuo na área desde 2020, sou graduando em Engenharia da Computação.
 
-Amo musculação :muscle: e gosto de jogar de vez em quando:
+Amo musculação :muscle: e gosto de jogar de vez em quando
 
 ---
 
