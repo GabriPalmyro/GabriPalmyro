@@ -1,16 +1,18 @@
-### Hi there 👋
+# Eiii, Bem vindo ao meu perfil do Git Hub 🙌
+## Atualmente sou desenvolvedor **Flutter**! 
+## Mas amo aprender sobre novas tecnologias e estar avançando um pouco a cada dia 😎
 
-<!--
-**GabriPalmyro/GabriPalmyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriPalmyro&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=GabriPalmyro&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=GabriPalmyro&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entre em contato comigo por:
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/GabriPalmyro/GabriPalmyro/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
+
