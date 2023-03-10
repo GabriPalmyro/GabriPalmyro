@@ -11,13 +11,13 @@
 
 ---
 
-Sou Desenvolvedor Mobile Júnior, atuo na área desde 2020, sou graduando em Engenharia da Computação.
+Sou Desenvolvedor Mobile Pleno, atuo na área desde 2020, sou graduando em Engenharia da Computação.
 
-Apaixonado por musculação :muscle: e gosto de jogar de vez em quando
+Apaixonado por automobilismo 🏎️ e gosto de jogar de vez em quando.
 
 ---
 
-Desenvolvi um aplicativo em 2021 o aplicativo **Treino Fácil - Aplicativo de Planilhas e Treinos** que atualmente ajuda mais de 2.000 pessoas a se exercitarem em casa, sem a necessidade de um personal e com mais de 100 usuários por dia.
+Em 2020 desenvolvi um aplicativo chamado **Treino Fácil - Aplicativo de Planilhas e Treinos** que atualmente ajuda mais de 2.000 pessoas a se exercitarem em casa, sem a necessidade de um personal e com mais de 100 usuários por dia.
 Acesse por: [Treino Fácil](https://treinofacilapp.com.br/#/)
 
 ---
