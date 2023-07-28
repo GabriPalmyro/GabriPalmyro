@@ -11,7 +11,7 @@
 
 ---
 
-Sou Desenvolvedor Mobile Pleno, atuo na área desde 2020, sou graduando em Engenharia da Computação.
+Sou Desenvolvedor Mobile Pleno pela @omnisaudeapp, atuo na área desde 2020, sou graduando em Engenharia da Computação.
 
 Apaixonado por automobilismo 🏎️ e gosto de jogar de vez em quando.
 
