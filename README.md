@@ -11,7 +11,7 @@
 
 ---
 
-Sou Desenvolvedor Mobile Pleno pela [Omni Saúde App](https://omnisaude.app), atuo na área desde 2020, sou graduando em Engenharia da Computação.
+Sou Software Engireer pela [XP Inc.](https://www.xpi.com.br/), atuo na área desde 2020, sou graduando em Engenharia da Computação.
 
 Fui finalista brasileiro na Maratona de Programação de 2023 e fiquei entre as melhores 70 equipes de todo o Brasil!
 
