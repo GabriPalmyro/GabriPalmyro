@@ -22,7 +22,7 @@ Apaixonado por automobilismo 🏎️ e gosto de jogar de vez em quando.
 ---
 
 Em 2020 desenvolvi um aplicativo chamado **Treino Fácil - Aplicativo de Planilhas e Treinos** que atualmente ajuda mais de 5.000 pessoas a se exercitarem em casa, sem a necessidade de um personal e com mais de 200 usuários por dia.
-Acesse por: [Treino Fácil](https://treinofacilapp.com.br/#/)
+Acesse por: [Treino Fácil](https://treinofacilapp.com.br/#/](https://play.google.com/store/apps/details?id=br.com.palmyro.treino_facil)
 
 ---
 
