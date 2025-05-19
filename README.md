@@ -1,34 +1,40 @@
-# Eiii, Bem vindo ao meu perfil do Git Hub 🙌
+# Hey there! Welcome to my GitHub profile 🙌
 
-<center>
-<table>
+<p align="center">
+  <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriPalmyro&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=GabriPalmyro&theme=buefy"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriPalmyro&hide=html&layout=compact&theme=buefy" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=GabriPalmyro&theme=buefy"/></td>
     </tr>   
-</table>
-</center>  
+  </table>
+</p>  
 
 ---
 
-Sou Software Engireer pela [XP Inc.](https://www.xpi.com.br/), atuo na área desde 2020, sou graduando em Engenharia da Computação.
+I'm Gabriel Palmeira Martins, a **Software Engineer at [XP Inc.](https://www.xpi.com.br/)** and a Computer Engineering graduate.
 
-Fui finalista brasileiro na Maratona de Programação de 2023 e fiquei entre as melhores 70 equipes de todo o Brasil!
+🏆 In 2023, I was a **finalist at the Brazilian Programming Marathon (ICPC)**, ranking among the top 70 teams nationwide!
 
-Sou apaixonado por desenvolver soluções que melhorem e facilitem a vida de seus usuários.
+💡 I love building meaningful solutions that make users' lives easier.
 
-Apaixonado por automobilismo 🏎️ e gosto de jogar de vez em quando.
-
----
-
-Em 2020 desenvolvi um aplicativo chamado **Treino Fácil - Aplicativo de Planilhas e Treinos** que atualmente ajuda mais de 5.000 pessoas a se exercitarem em casa, sem a necessidade de um personal e com mais de 200 usuários por dia.
-Acesse por: [Treino Fácil](https://play.google.com/store/apps/details?id=br.com.palmyro.treino_facil)
+🏎️ I'm also passionate about motorsports and enjoy gaming in my spare time.
 
 ---
 
-Onde me encontrar? :mag:  
-<a href="https://www.linkedin.com/in/gabriel-palmyro/"><img src="https://github.com/GabriPalmyro/GabriPalmyro/blob/main/linkedin.png" width="24"></img></a> [LinkedIn](https://www.linkedin.com/in/gabriel-palmyro/)  
-<a href="https://www.instagram.com/palmyro_ga/"><img src="https://github.com/GabriPalmyro/GabriPalmyro/blob/main/instagra.png" width="24"></img></a> [Instagram](https://www.instagram.com/palmyro_ga/) 
+### 🚀 Highlighted Project
 
-![](https://komarev.com/ghpvc/?username=GabriPalmyro&color=green)
+In 2020, I launched an app called **Treino Fácil – Workout and Training Plans**, which helps over **5,000 people** stay fit at home without needing a personal trainer.  
+It serves more than **200 daily active users** and continues to grow!
 
+📲 Check it out: [Treino Fácil on Google Play](https://play.google.com/store/apps/details?id=br.com.palmyro.treino_facil)
+
+---
+
+### 🔍 Where to find me?
+
+[<img src="https://github.com/GabriPalmyro/GabriPalmyro/blob/main/linkedin.png" width="24">](https://www.linkedin.com/in/gabriel-palmyro/) [**LinkedIn**](https://www.linkedin.com/in/gabriel-palmyro/)  
+[<img src="https://github.com/GabriPalmyro/GabriPalmyro/blob/main/instagra.png" width="24">](https://www.instagram.com/palmyro_ga/) [**Instagram**](https://www.instagram.com/palmyro_ga/)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=GabriPalmyro&color=green)
